@@ -16,15 +16,9 @@ A Python-based **Cybersecurity project** that helps users check the **strength o
 - ✅ **User-Friendly GUI (Tkinter)**  
    - Simple password entry field with masked input.  
    - Show/Hide password toggle.  
-   - Instant results with clear messages.  
-
----
-
-## 📸 Screenshot
-(Add your app screenshot here, for example `screenshot.png`)  
-
-![Password Checker Screenshot](screenshot.png)
-
+   - Instant results with clear messages.
+ 
+     
 ---
 
 ## 🛠️ Installation & Usage
